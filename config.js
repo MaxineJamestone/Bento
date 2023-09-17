@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Music',
-			icon: 'headphones',
+			icon: 'music',
 			link: 'https://music.youtube.com',
 		},
 		{
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Twitter',
+			icon: 'twitter',
+			link: 'https://x.com',
 		},
 		{
 			id: '6',
