@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Music',
-			icon: 'trello',
+			icon: 'headphones',
 			link: 'https://music.youtube.com',
 		},
 		{
@@ -83,7 +83,7 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://youtube.com/',
 		},
@@ -92,8 +92,8 @@ const CONFIG = {
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
-			icon: 'headphones',
+			name: 'Reddit',
+			icon: 'glasses',
 			link: 'https://open.spotify.com',
 		},
 		{
